@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a developer and tech enthusiast passionate abo
 ---
 
 ### 📊 GitHub Stats
-![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaidRaza3&show_icons=true&theme=radical)
+![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaidRaza3&show_icons=true&theme=radical&cache_seconds=1800)
 
 ---
 
