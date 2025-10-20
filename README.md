@@ -26,6 +26,8 @@ Welcome to my GitHub profile! I'm a developer and tech enthusiast passionate abo
 
   <!-- Cybersecurity / Networking Tools -->
   <img src="https://cdn.worldvectorlogo.com/logos/wire-shark.svg" width="40" height="40" alt="Wireshark" />
+  </p>
+
 
 
 ### 📊 GitHub Stats
