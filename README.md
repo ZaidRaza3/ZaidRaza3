@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammed Zaid Raza
 
-Welcome to my GitHub profile! I'm a developer and tech enthusiast passionate about Artificial Intelligence, Cybersecurity, and Data Analytics. I love designing intelligent, secure, and data-driven solutions that solve real-world problems. 🚀
+## Welcome to my GitHub profile! I'm a developer and tech enthusiast passionate about Artificial Intelligence, Cybersecurity, and Data Analytics. I love designing intelligent, secure, and data-driven solutions that solve real-world problems. 🚀
 ---
 
 ### 🧠 About Me
