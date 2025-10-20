@@ -17,16 +17,7 @@ Welcome to my GitHub profile! I'm a developer and tech enthusiast passionate abo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-
-  <!-- Analytics / BI Tools -->
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-power-bi-2.svg" width="40" height="40" alt="Power BI" />
-
-  <!-- Cybersecurity / Networking Tools -->
-  <img src="https://cdn.worldvectorlogo.com/logos/wire-shark.svg" width="40" height="40" alt="Wireshark" />
-  </p>
+</p>
 
 
 
